@@ -1,0 +1,11 @@
+{
+  "name": "ageist",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "ageist": "bin/index.js"
+  },
+  "repository": "https://github.com/NicerHugs/ageist.git",
+  "author": "nicerhugs <nicerhugs@gmail.com> http://nicerhugs.com",
+  "license": "ISC"
+}
